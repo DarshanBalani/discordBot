@@ -1,0 +1,19 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Darshan Balani",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.3",
+    "nodemon": "^3.1.0",
+    "shortid": "^2.2.16"
+  }
+}
